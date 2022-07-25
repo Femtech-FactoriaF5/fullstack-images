@@ -1,0 +1,9 @@
+
+.image-list{
+    margin:40px;
+}
+img{
+    min-height: 240px;
+    max-height:300px;
+    max-width: calc(100vw/2);
+  }
